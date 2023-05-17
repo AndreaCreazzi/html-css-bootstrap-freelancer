@@ -9,3 +9,19 @@ header{
 .col-6 , .col-12{
     border: 2px dashed green;
 }
+
+.h-color{
+    background-color: #2c3e50;
+}
+
+.j-color{
+    background-color: #1abc9c;
+}
+
+.f-color{
+    background-color: #3a546d;
+}
+
+.c-color{
+    background-color: #2c3e50;
+}
